@@ -2,8 +2,8 @@
 [Project](https://github.com/Merle314/Supervised-Pixel-Wise-GAN) | [Arxiv](https://github.com/Merle314/Supervised-Pixel-Wise-GAN) | 
 [PyTorch](https://github.com/Merle314/Supervised-Pixel-Wise-GAN)
 
-<!-- <img src="images/result.png" width="900px"/> -->
-<img src="images/result.png"/>
+<!-- <img src="images/result.png" width="900px"/>
+<img src="images/result.png"/> -->
 
 PyTorch implementation of Supervised Pixel-Wise GAN for Face Super Resolution.
 
@@ -27,7 +27,10 @@ Use the default hyparameters except changing the parameter "upscale" according t
 
 Comparison our SPGAN-ID model with state-of-the-art methods on 8x super-resolution 16x16 input face images, and the zoom in details of important face parts to prove the effectiveness of our SPGAN-ID model.
 
-<img src="images/compare.png"/>
+<img src="images/x8.png"/>
+Comparison with state-of-the-art methods through $8\times$ super-resolution $16\times16$ input faces. Zooming-in details of important face parts confirm the effectiveness of our SPGAN.
+<img src="images/x16.png"/>
+Comparison with state-of-the-art methods through $16\times$ super-resolution $8\times8$ input faces. Please zooming-in for details.
 
 ## Citation
 
