@@ -26,8 +26,10 @@ Use the default hyparameters except changing the parameter "upscale" according t
 ## Result
 <img src="images/x8.png"/>
 <center>Comparison with state-of-the-art methods through 8x super-resolution 16x16 input faces. Zooming-in details of important face parts confirm the effectiveness of our SPGAN.<center>
+  
 -------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------
+
 <img src="images/x16.png"/>
 <center>Comparison with state-of-the-art methods through 16x super-resolution 8x8 input faces. Please zooming-in for details.<center>
 
