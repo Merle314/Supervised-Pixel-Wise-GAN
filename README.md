@@ -2,8 +2,8 @@
 [Project](https://github.com/Merle314/Supervised-Pixel-Wise-GAN) | [Arxiv](https://github.com/Merle314/Supervised-Pixel-Wise-GAN) | 
 [PyTorch](https://github.com/Merle314/Supervised-Pixel-Wise-GAN)
 
-<!-- <img src="images/result.png" width="900px"/>
-<img src="images/result.png"/> -->
+<!-- <img src="images/result.png" width="900px"/>-->
+<img src="images/x4x8x16.png"/>
 
 PyTorch implementation of Supervised Pixel-Wise GAN for Face Super Resolution.
 
