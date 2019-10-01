@@ -24,13 +24,11 @@ Use the default hyparameters except changing the parameter "upscale" according t
 >python main.py --ngpu=1 --test --start_epoch=0  --test_iter=1000  --batchSize=64 --test_batchSize=32 --nrow=4  --upscale=3 --input_height=128 --output_height=128 --crop_height=128 --lr=2e-4  --nEpochs=500 --cuda
 
 ## Result
-
-Comparison our SPGAN-ID model with state-of-the-art methods on 8x super-resolution 16x16 input face images, and the zoom in details of important face parts to prove the effectiveness of our SPGAN-ID model.
-
 <img src="images/x8.png"/>
-Comparison with state-of-the-art methods through $8\times$ super-resolution $16\times16$ input faces. Zooming-in details of important face parts confirm the effectiveness of our SPGAN.
+<center>Comparison with state-of-the-art methods through 8x super-resolution 16x16 input faces. Zooming-in details of important face parts confirm the effectiveness of our SPGAN.<center>
+
 <img src="images/x16.png"/>
-Comparison with state-of-the-art methods through $16\times$ super-resolution $8\times8$ input faces. Please zooming-in for details.
+<center>Comparison with state-of-the-art methods through 16x super-resolution 8x8 input faces. Please zooming-in for details.<center>
 
 ## Citation
 
